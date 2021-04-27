@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class SelectionSortTest {
 
 	@Test
-	public void testPositives() 
+	public void testPositives()
 	{
 		int[] expected = new int[] {1, 2, 3};
 		int[] array = new int[] {3, 2, 1};

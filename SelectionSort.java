@@ -25,5 +25,4 @@ public class SelectionSort
             arr[pos]= temp;
         }
       }
-
 }
